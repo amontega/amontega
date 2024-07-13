@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 -🔭 I’m Full Stack Web Developer Student!
 -🌱 I’m currently located in California
 -✨I’m looking to grow my expirence and knowledge

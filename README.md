@@ -28,7 +28,7 @@ A farm-to-table inspired website celebrating sustainability, good food, and beau
   [*🔗 View Project*](https://github.com/amontega/fieldandfeast)
 
 
-**✨ Wanderlusdt Travel**
+**✨ Wanderlust Travel**
 A travel landing page optimized for mobile devices, designed for clarity and inspiration.
   
   [*🔗 View Project*](file:///Users/allymontegary/Desktop/Wonderlust/index.html)

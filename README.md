@@ -8,13 +8,16 @@ I’m Ally, a passionate creator and problem solver about to graduate with a B.S
 I love combining code + creativity to craft meaningful digital experiences — from dynamic websites to interactive brand stories.
 My career goal is to work at the intersection of design and development, bringing visual storytelling, UX, and functionality together in every project I build.
 
+
 ## 🧰 Skills & Tools
 Languages & Frameworks
 💻 HTML5 | 🎨 CSS3 | ⚙️ JavaScript | 🐍 Python | 🗃️ SQL
 
+
 ## Design Tools
 🖌️ Adobe Illustrator | 🧷 Photoshop | 📰 InDesign | 🎞️ After Effects | 💡 Figma
 (Icons coming soon — stay tuned!)
+
 
 ## 💼 Projects
 Here are a few of my recent creations — each one represents a different part of my development and design journey:
@@ -29,15 +32,22 @@ A farm-to-table inspired website celebrating sustainability, good food, and beau
 A motivational life coaching landing page optimized for mobile devices, designed for clarity and inspiration.
 🔗 View Project
 
+**📘 The Renewal Catalog**
+A digital catalog showcasing refreshed product designs and visual storytelling.  
+Built using a mix of creative software and web technologies to blend layout, motion, and interaction.  
+🔗 View Project
 
 ### 🎓 Education
-Bachelor of Science in Graphic Information Technology (Full Stack Web Development)
-📍 Arizona State University
-🎓 Expected Graduation: 2025
+Bachelor of Science in Graphic Information Technology 
+  (Full Stack Web Development)
+  
+  📍 Arizona State University
+  
+  🎓 Expected Graduation: 2025
 
 
 
-📬 Contact Me
+**📬 Contact Me**
 💌 Email: allymontegary@gmail.com
 🔗 GitHub: github.com/amontega
 💼 LinkedIn: linkedin.com/in/allymontega (placeholder link)

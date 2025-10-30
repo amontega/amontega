@@ -1,7 +1,7 @@
 
 <img width="402" alt="Screenshot 2024-07-12 at 6 49 02 PM" src="https://github.com/user-attachments/assets/8e718f4b-250b-42b8-991d-82fb6ee86ccb">
 
-# 👋 Hello there, I’m Ally!
+#  Hello there, I’m Ally!
 🌟 Full Stack Developer | Designer |  GIT Graduate
 
 I’m Ally, a passionate creator and problem solver about to graduate with a B.S. in Graphic Information Technology (Full Stack Web Development).

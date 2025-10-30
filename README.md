@@ -46,7 +46,7 @@ Bachelor of Science in Graphic Information Technology
 
 
 
-##📬 Contact Me
+## 📬 Contact Me
   
   💌 Email: allymontegary@gmail.com
   

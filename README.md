@@ -37,7 +37,7 @@ A digital catalog showcasing refreshed product designs and visual storytelling.
 Built using a mix of creative software and web technologies to blend layout, motion, and interaction.  
 🔗 View Project
 
-### 🎓 Education
+## 🎓 Education
 Bachelor of Science in Graphic Information Technology 
   (Full Stack Web Development)
   

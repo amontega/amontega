@@ -16,7 +16,6 @@ Languages & Frameworks
 
 ## Design Tools
 🖌️ Adobe Illustrator | 🧷 Photoshop | 📰 InDesign | 🎞️ After Effects | 💡 Figma
-(Icons coming soon — stay tuned!)
 
 
 ## 💼 Projects

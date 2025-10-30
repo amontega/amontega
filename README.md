@@ -25,19 +25,19 @@ Here are a few of my recent creations — each one represents a different part o
 **🌾 Field & Feast**
 A farm-to-table inspired website celebrating sustainability, good food, and beautiful design.
   
-  *🔗 View Project*
+  [*🔗 View Project*](https://github.com/amontega/fieldandfeast)
 
 
-**✨ Path to Success**
-A motivational life coaching landing page optimized for mobile devices, designed for clarity and inspiration.
+**✨ Wanderlusdt Travel**
+A travel landing page optimized for mobile devices, designed for clarity and inspiration.
   
-  *🔗 View Project*
+  [*🔗 View Project*](file:///Users/allymontegary/Desktop/Wonderlust/index.html)
 
 **📘 The Renewal Catalog**
 A digital catalog showcasing refreshed product designs and visual storytelling.  
 Built using a mix of creative software and web technologies to blend layout, motion, and interaction.  
   
-  *🔗 View Project*
+  [*🔗 View Project*](file:///Users/allymontegary/Desktop/ROADIE%20DEV/Montegary_A5.pdf)
 
 ## 🎓 Education
 Bachelor of Science in Graphic Information Technology 

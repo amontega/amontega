@@ -47,7 +47,10 @@ Bachelor of Science in Graphic Information Technology
 
 
 **📬 Contact Me**
-💌 Email: allymontegary@gmail.com
-🔗 GitHub: github.com/amontega
-💼 LinkedIn: linkedin.com/in/allymontega (placeholder link)
+  
+  💌 Email: allymontegary@gmail.com
+  
+  🔗 GitHub: github.com/amontega
+  
+  💼 LinkedIn: linkedin.com/in/allymontega (placeholder link)
 
